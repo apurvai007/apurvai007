@@ -1,16 +1,24 @@
-### Hi there 👋
+<h3>About Me </h3>
 
-<!--
-**apurvai007/apurvai007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- My Website: [Portfolio website](https://apurvamathur.vercel.app/)
+- 🔭 I’m currently working on: a Valorant eSports website using Dotnet and React.
+- 🌱 I’m currently learning: Front end development and React.
+- 💬 Ask me about: anything; I am happy to help.
+- 💜 Interests: Playing musical instruments (drums and percussion), Esports.
+- ⚡ Fun fact: You can learn any musical instrument if you know the basics of music, just like it is for programming languages.
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3> 🛠 &nbsp;Tech Stack</h3>
+
+- :space_invader:
+  ![Dotnet](https://img.shields.io/badge/dotnet-14354C?style=for-the-badge&logo=dotnet&logoColor=white)
+  ![React](https://img.shields.io/badge/React-217346?style=for-the-badge&logo=React&logoColor=white) 
+- 🌐 &nbsp;
+  ![C#](https://img.shields.io/badge/csharp-316192?style=for-the-badge&logo=csharp&logoColor=white) 
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
