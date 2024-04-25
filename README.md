@@ -9,6 +9,17 @@
 
 <br/>
 
+<h3>Open Source contributions</h3>
+
+<h2>
+  nopCommerce
+</h2>
+
+- [MR merged 1](https://github.com/nopSolutions/nopCommerce/pull/7011)
+- [MR merged 2](https://github.com/nopSolutions/nopCommerce/pull/7014)
+
+
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - :space_invader:
