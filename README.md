@@ -1,25 +1,7 @@
 <h3>About Me </h3>
 
 - My Website: [Portfolio website](https://apurvamathur.vercel.app/)
-- 🔭 I’m currently working on: a Valorant eSports website using Dotnet and React.
-- 🌱 I’m currently learning: Front end development and React.
-- 💬 Ask me about: anything; I am happy to help.
-- 💜 Interests: Playing musical instruments (drums and percussion), Esports.
-- ⚡ Fun fact: You can learn any musical instrument if you know the basics of music, just like it is for programming languages.
-
-<br/>
-
-<h3>Open Source contributions</h3>
-
-<h2>
-  nopCommerce
-</h2>
-
-- [MR merged 1](https://github.com/nopSolutions/nopCommerce/pull/7011)
-- [MR merged 2](https://github.com/nopSolutions/nopCommerce/pull/7014)
-
-
-
+  
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - :space_invader:
